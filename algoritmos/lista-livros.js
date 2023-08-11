@@ -1,0 +1,60 @@
+const precosLivros =[
+{
+    titulo:"JavaScript",
+    preco:25
+},
+{
+    titulo:"Python",
+    preco:30
+},
+{
+    titulo:"C++",
+    preco:40
+},
+{
+    titulo:"PHP",
+    preco:50
+},
+{
+    titulo:"Java",
+    preco:60
+},
+{
+    titulo:"C#",
+    preco:70
+},
+{
+    titulo:"Ruby",
+    preco:80
+},
+{
+    titulo:"Go",
+    preco:90
+},
+{
+    titulo:"Kotlin",
+    preco:100
+},
+{
+    titulo:"Swift",
+    preco:110
+},
+{
+    titulo:"Objective-C",
+    preco:120
+},
+{
+    titulo:"Rust",
+    preco:130
+},
+{
+    titulo:"Scala",
+    preco:140
+},
+{
+    titulo:"Clojure",
+    preco:150
+},
+];
+
+module.exports =precosLivros;
